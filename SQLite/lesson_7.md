@@ -27,7 +27,7 @@ UNION SELECT val FROM tab2
 
 то результат работы SQL-запроса останется прежним. Но, оставляя только первую строку запроса:  
 
-``SQL
+```SQL
 SELECT score FROM tab1
 ```  
 
